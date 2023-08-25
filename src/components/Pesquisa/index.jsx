@@ -31,5 +31,4 @@ function Pesquisa (){
 		</Container>
 	)
 }
-
 export{ Pesquisa }
