@@ -5,7 +5,6 @@ import { livros } from './data/index'
 import imgLivro from '../.../../../assets/img/livro2.png'
 import { UltimosLancamentosContainer, NovosLivrosContainer} from './style'
 
-
 function UltimosLancamentos(){
 	return(
 		<UltimosLancamentosContainer>

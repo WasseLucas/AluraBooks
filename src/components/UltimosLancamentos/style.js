@@ -6,9 +6,6 @@ export const UltimosLancamentosContainer = styled.section`
     display: flex;
     flex-direction: column;
 `
-
-
-
 export const NovosLivrosContainer = styled.div`
     margin-top: 30px;
     display: flex;
